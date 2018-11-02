@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<gpx version="1.1">
+<wpt lat="10.0000" lon="10.00000">
+	<time>2018-11-04T11:56:00Z</time>
+</wpt>
+<wpt lat="10.0001" lon="10.00000"> 
+	<time>2018-11-04T11:56:05Z</time>
+</wpt>
+<wpt lat="10.0002" lon="10.00000">
+	<time>2018-11-04T11:56:10Z</time>
+</wpt>
+<wpt lat="10.0003" lon="10.00000"> 
+	<time>2018-11-04T11:56:15Z</time> 
+</wpt>
+<wpt lat="10.0004" lon="10.00000">
+	<time>2018-11-04T11:56:20Z</time>
+</wpt>
+<wpt lat="10.0005" lon="10.00000">
+	<time>2018-11-04T11:56:25Z</time>
+</wpt>
+<wpt lat="10.0006" lon="10.00000"> 
+	<time>2018-11-04T11:56:30Z</time>
+</wpt>
+<wpt lat="10.0007" lon="10.00000">
+	<time>2018-11-04T11:56:35Z</time>
+</wpt>
+<wpt lat="10.0008" lon="10.00000"> 
+	<time>2018-11-04T11:56:40Z</time> 
+</wpt>
+<wpt lat="10.0009" lon="10.00000">
+	<time>2018-11-04T11:56:45Z</time>
+</wpt>
+<wpt lat="10.0010" lon="10.00000">
+	<time>2018-11-04T11:56:50Z</time>
+</wpt>
+<wpt lat="10.0011" lon="10.00000"> 
+	<time>2018-11-04T11:56:55Z</time>
+</wpt>
+<wpt lat="10.0012" lon="10.00000">
+	<time>2018-11-04T11:57:00Z</time>
+</wpt>
+</gpx>
